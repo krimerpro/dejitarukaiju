@@ -30,7 +30,7 @@
                   <a class="nav-link" href="#head-area" style="color:black;font-size:large">Home</a>
               </li>
               <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
-                  <a class="nav-link" href="https://www.dextools.io/app/en/ether/pair-explorer" style="color:black;font-size:large">Dextools</a>
+                  <a class="nav-link" href="https://www.dextools.io/app/en/ether/pair-explorer/0xa5f08c52362d1c19905210ae47c8801a10ff5f09" style="color:black;font-size:large">Dextools</a>
               </li>
               <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
                   <a class="nav-link" href="https://medium.com/@KingGhidorah/kaiju-%E6%80%AA%E7%89%A9-e1b6b32fc2d5" style="color:black;font-size:large">Medium</a>
