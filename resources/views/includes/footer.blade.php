@@ -1,5 +1,4 @@
 
-
 <script src="{{ asset('/js/vendors.min.js') }}"></script>
 
 <script src="{{ asset('/js/flipclock.min.js') }}"></script>

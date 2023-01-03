@@ -3,11 +3,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="description" content="SAMURAI | JAPANESE WARRIOR">
-<meta name="keywords" content="erc20, samurai, japanesewarrior, ethereum, blockchain">
-<meta name="author" content="SAMURAI">
+<meta name="description" content="KAIJU | THE GIANT MONSTERS">
+<meta name="keywords" content="erc20, kaiju, dejitarukaiju, ethereum, blockchain">
+<meta name="author" content="KAIJU">
 
-<title>SAMURAI | JAPANESE WARRIOR</title>
+<title>KAIJU | THE GIANT MONSTERS</title>
 <link rel="icon" type="image/x-icon" href="{{ asset('images/logo.png') }}">
 
 <!-- Fonts -->

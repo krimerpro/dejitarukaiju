@@ -3,7 +3,7 @@
 <head>
    @include('includes.head')
 </head>
-<body class=" 1-column undefined  page-animated svg-wrapper" data-menu-open="hover" data-menu="">
+<body class=" 1-column undefined  page-animated svg-wrapper" data-menu-open="hover" data-menu="" style="background-image:url({{url('images/kaiju.png')}});">
 
 <?php
   if(Route::current()->getName() != 'nft'){
