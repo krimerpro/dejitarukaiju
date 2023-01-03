@@ -35,6 +35,9 @@
               <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
                   <a class="nav-link" href="https://medium.com/@KingGhidorah/kaiju-%E6%80%AA%E7%89%A9-e1b6b32fc2d5" style="color:black;font-size:large">Medium</a>
               </li>
+              <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
+                  <a class="nav-link" href="{{ asset('/documents/roadmap.pdf') }}" target="_blank" style="color:black;font-size:large">Roadmap</a>
+              </li>
           </ul>
           <span id="slide-line"></span>
           <!-- <form class="form-inline mt-2 mt-md-0 text-right" style="margin-left:auto">
