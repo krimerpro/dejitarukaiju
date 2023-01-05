@@ -37,7 +37,7 @@
         <div class="text-center" style="background-color: rgba(0, 0, 0, 0.2);">
           <div class="copyright" style="color:white;margin-top:50px">5% BUY TAX | 5% SELL TAX</div>
           <div class="copyright" style="color:white;margin-top:50px">3% MAX WALLET | 3% MAX TRANSACTION</div>
-          <div class="copyright" style="color:white;margin-top:50px">CA : 0x4C71dE4dD45716e37F37cF55d2cf21103116cBf7</div>
+          <!-- <div class="copyright" style="color:white;margin-top:50px">CA : </div> -->
           <div class="copyright" style="color:white;margin-top:50px">Copyright &copy; 2023, KAIJU - TEAM</div>
           <div class="copyright" style="color:white;margin-top:50px">Contact US on : dejitarukaiju@gmail.com</div>
         </div>
